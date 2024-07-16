@@ -1,16 +1,15 @@
-## Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**Jithendra10/Jithendra10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hi, I'm Jithendra Kumar Gokanakonda, a tech enthusiast and aspiring software engineer. I am passionate about developing innovative solutions and have experience in various programming languages and development tools. I specialize in Python, MySQL, and data analysis, and I enjoy tackling challenging projects.
 
-Here are some ideas to get you started:
+## Skills
+- **Programming Languages**: Python (Expert), MySQL, MATLAB
+- **Development Software**: VS Code, Microsoft Excel, Tableau
+- **Data Structures and Algorithms**: Using Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Information
+- **Email**: jithendrakumar710@gmail.com
+- **Linkedin**: https://www.linkedin.com/in/jithendra-kumar-g/
+
+Thank you for visiting my profile! Feel free to reach out to me for collaborations or any inquiries.
